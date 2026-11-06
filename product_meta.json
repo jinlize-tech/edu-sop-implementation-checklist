@@ -1,0 +1,24 @@
+{
+  "number": 90,
+  "product_id": "JLZ-EDU-SK-072",
+  "chinese_name": "SOP执行检查",
+  "english_name": "SOP Implementation Checklist",
+  "repository_name": "edu-sop-implementation-checklist",
+  "product_type": "Skill",
+  "category": "08 校区标准化与多校区管理中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-sop-implementation-checklist-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "SOP文本、执行周期、责任人、检查项、证据要求和整改规则",
+  "main_output": "执行检查表、证据字段、频次、责任矩阵、评分/判定和整改跟踪",
+  "package_entries": [
+    "edu-sop-implementation-checklist/SKILL.md",
+    "edu-sop-implementation-checklist/references/DOMAIN_GUIDE.md",
+    "edu-sop-implementation-checklist/references/EXAMPLES.md",
+    "edu-sop-implementation-checklist/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
