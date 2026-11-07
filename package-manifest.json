@@ -2,17 +2,29 @@
   "product_id": "JLZ-EDU-SK-072",
   "repository_name": "edu-sop-implementation-checklist",
   "product_type": "Skill",
-  "version": "1.0.0",
-  "package_path": "dist/edu-sop-implementation-checklist-v1.0.0.zip",
-  "sha256": "C70CA3354ABFB0238879AE0ED2EDDD5A186B0B7B4A10E1A8C977D167703D72CF",
-  "bytes": 4852,
+  "version": "1.0.1",
+  "package_path": "dist/edu-sop-implementation-checklist-v1.0.1.zip",
+  "sha256": "52CFB1413166F187C5C7AA16404A18B52E768D1F21B1BE039EA9764322CA122D",
+  "bytes": 14501,
   "entries": [
     "edu-sop-implementation-checklist/SKILL.md",
     "edu-sop-implementation-checklist/references/DOMAIN_GUIDE.md",
     "edu-sop-implementation-checklist/references/EXAMPLES.md",
-    "edu-sop-implementation-checklist/templates/OUTPUT_TEMPLATE.md"
+    "edu-sop-implementation-checklist/templates/OUTPUT_TEMPLATE.md",
+    "edu-sop-implementation-checklist/README.md",
+    "edu-sop-implementation-checklist/USAGE.md",
+    "edu-sop-implementation-checklist/LICENSE",
+    "edu-sop-implementation-checklist/THIRD_PARTY_NOTICES.md",
+    "edu-sop-implementation-checklist/scripts/validate_input.js"
   ],
-  "built_at": "2026-11-06T22:46:08.5322368+08:00",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED"
+  "license": "Apache-2.0",
+  "license_included": true,
+  "license_sha256": "CFC7749B96F63BD31C3C42B5C471BF756814053E847C10F3EB003417BC523D30",
+  "third_party_notice_included": true,
+  "previous_package_path": "dist/edu-sop-implementation-checklist-v1.0.0.zip",
+  "previous_package_sha256": "C70CA3354ABFB0238879AE0ED2EDDD5A186B0B7B4A10E1A8C977D167703D72CF",
+  "built_at": "2026-11-07T09:20:07.0860952+08:00",
+  "status": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE"
 }

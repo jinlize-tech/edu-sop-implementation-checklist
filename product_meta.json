@@ -6,19 +6,38 @@
   "repository_name": "edu-sop-implementation-checklist",
   "product_type": "Skill",
   "category": "08 校区标准化与多校区管理中心",
-  "version": "1.0.0",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED",
+  "version": "1.0.1",
+  "previous_version": "1.0.0",
+  "g5_status": "G5_STRENGTHENED",
+  "status": "G9_PRE_RELEASE_ACCEPTED",
+  "package_state": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE",
   "license": "Apache-2.0",
   "baseline_tag": "education-product-baseline-v1.0.0",
-  "package_path": "dist/edu-sop-implementation-checklist-v1.0.0.zip",
+  "baseline_commit": "c086a6f0627299d24bf590ecec9c715aa26681d6",
+  "package_path": "dist/edu-sop-implementation-checklist-v1.0.1.zip",
+  "previous_package_path": "dist/edu-sop-implementation-checklist-v1.0.0.zip",
+  "previous_package_sha256": "C70CA3354ABFB0238879AE0ED2EDDD5A186B0B7B4A10E1A8C977D167703D72CF",
   "calculator": false,
   "core_input": "SOP文本、执行周期、责任人、检查项、证据要求和整改规则",
   "main_output": "执行检查表、证据字段、频次、责任矩阵、评分/判定和整改跟踪",
+  "main_output_fields": [
+    "执行检查表",
+    "证据字段",
+    "频次",
+    "责任矩阵",
+    "评分/判定和整改跟踪"
+  ],
   "package_entries": [
     "edu-sop-implementation-checklist/SKILL.md",
     "edu-sop-implementation-checklist/references/DOMAIN_GUIDE.md",
     "edu-sop-implementation-checklist/references/EXAMPLES.md",
-    "edu-sop-implementation-checklist/templates/OUTPUT_TEMPLATE.md"
+    "edu-sop-implementation-checklist/templates/OUTPUT_TEMPLATE.md",
+    "edu-sop-implementation-checklist/README.md",
+    "edu-sop-implementation-checklist/USAGE.md",
+    "edu-sop-implementation-checklist/LICENSE",
+    "edu-sop-implementation-checklist/THIRD_PARTY_NOTICES.md",
+    "edu-sop-implementation-checklist/scripts/validate_input.js"
   ]
 }
